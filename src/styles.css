@@ -3,10 +3,18 @@
 }
 
 body{
+    padding-top: 5rem;
     margin: 0;
-    background: linear-gradient(to right, #41e1d4,#27cc61);
+    background: linear-gradient(to right, #b1a6a3,#34342c);
+    box-shadow: 15cm;
 }
-
+.header{
+    display: grid;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: chartreuse;
+    color: aliceblue;
+}
 .calculator-grid{
     display: grid;
     justify-content: center;
