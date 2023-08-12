@@ -2,7 +2,7 @@
 
 Welcome to the React Calculator repository! This project is a full-fledged calculator built using React, allowing users to perform various mathematical operations in a user-friendly interface.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshot.jpg)
 
 ## Features
 
@@ -17,20 +17,16 @@ Welcome to the React Calculator repository! This project is a full-fledged calcu
 
 git clone https://github.com/HarshallSonawane/react-calculator-app.git
 
-
 2. Navigate to the project directory:
 
 cd calculator-app
-
 
 3. Install the required dependencies:
 
 npm install
 
-
 4. Start the development server:
 
 npm start
-
 
 Happy Learning!!
