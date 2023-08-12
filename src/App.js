@@ -3,7 +3,7 @@ import { useReducer } from "react";
 import DigitButton from "./DigitButton";
 import OperationButton from "./OperationButton";
 
-//ACTIONS OF CALCULATOR
+//ACTIONS OF CALCULATORR
 export const ACTIONS = {
   ADD_DIGIT: "add-digit",
   CHOOSE_OPERATION: "choose-operation",
